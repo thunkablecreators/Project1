@@ -1,5 +1,5 @@
 import Home from './components/Hero/Home'
-import About from './components/About/About'
+import About from './components/About'
 import './App.css'
 
 function App() {
