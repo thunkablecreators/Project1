@@ -1,10 +1,12 @@
 import Home from './components/Hero/Home'
+import About from './components/About/About'
 import './App.css'
 
 function App() {
   return (
     <>
       <Home />
+      <About />
     </>
   )
 }

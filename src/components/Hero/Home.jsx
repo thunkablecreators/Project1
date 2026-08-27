@@ -14,8 +14,15 @@ export default function Home () {
             <div>
                 <h2>Mark Maxwell Mathan</h2>
                 <aside>Hey, I am a frontend MERN Stack Web Developer</aside>
-                <img src="/images/Mark.jpg" alt="Mark Maxwell Mathan" />
+                <img src="https://github.com/thunkablecreators/Project1/blob/main/src/components/Hero/Images/Mark.jpg" alt="Mark Maxwell Mathan" />
                 <a href="Projects.jsx">View Projects</a>
+                <div>
+                    <h2>Contact Details</h2>
+                    <button><a href="https://wa.me/256786477525">WhatsApp</a></button>
+                    <button><a href="https://x.com/thunkablex">Twitter</a></button>
+                    <button><a href="https://instagram.com/thunkablewebdevelopers">instagram</a></button>
+                    <button><a href="https://thunkablex-creators.web.app">Official Website</a></button>
+                </div>
             </div>
         </div>
     )
